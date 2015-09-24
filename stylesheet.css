@@ -1,0 +1,39 @@
+html,body,h1,h2,h3,h4,p,div,a,ul,li,span{
+    margin:0;
+    padding:0;
+}
+body{
+    position:relative;
+}
+#red{
+    background:red;
+    position:relative;
+}
+#green{
+    background:green;
+    padding:60% 0% 0% 0%;
+    position:relative;
+    float:left;
+    width:33.333%;
+}
+#blue{
+    background:blue;
+    padding:60% 0% 0% 0%;
+    position:relative;
+    float:right;
+    width:33.333%;
+}
+#purple{
+    background:purple;
+    clear:both;
+}
+#yellow{
+    background: yellow;
+    padding:60% 0% 0% 0%;
+    position:relative;
+    float:left;
+    width:33.333%;
+}
+.box{
+    min-height:100px;
+}
